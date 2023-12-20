@@ -19,4 +19,4 @@ async def on_member_join(member):
     aovivoemlive = client.get_channel(1146640261238243419)
     mensagem = await boasvindas.send(f'Seja bem vindo(a) {member.mention} ao servidor! \nDê uma olhada nas regras em {regras.mention} \nFique a vontade pra conversar no canal de chat {chat.mention} \nAlertas de quando o canal estiver AO VIVO serão notificados em {aovivoemlive.mention} ')
 
-client.run('MTE4NjY3NjQ2NjIwNTg1NTc1NQ.G3ZGkq.-JVDDEuKoq_ngdZq3_Zp_nI1sejsgi5QW8IAtY')
+client.run('Meu Token')
